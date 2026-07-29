@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Hanifah Alya 👋
 
-<!--
-**selena2355/selena2355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Diploma in Information Technology graduate from **Politeknik Negeri Madiun** with an interest in backend web development, automation, and natural language processing.
 
-Here are some ideas to get you started:
+I enjoy building practical applications that solve real problems through clean, maintainable solutions. Recently, I've been focusing on Python, Flask, database-driven applications, and document processing systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning
+
+- Backend Development
+- Software Engineering Best Practices
+- Python Ecosystem
+- System Design
+- Clean Code
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+### Frameworks & Libraries
+
+- Flask
+- Flask-SQLAlchemy
+- Flask-Migrate
+- Stanza
+
+### Database
+
+- MySQL
+
+### Tools
+
+- Git & GitHub
+- Visual Studio Code
+- MySQL Workbench
+- Postman
+
+### Productivity
+
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
+
+---
+
+## 🚀 Featured Project
+
+### Indonesian Scientific Punctuation Checker
+
+A web-based application that automatically detects and corrects Indonesian punctuation errors in scientific documents using a rule-based approach, Regular Expressions, and POS Tagging with Stanza.
+
+**Highlights**
+
+- DOCX document processing
+- Rule-based punctuation detection
+- Background worker processing
+- Automatic document correction
+- User authentication
+- Processing history
+
+👉 Check the pinned repository below for more details.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: *(coming soon)*
+- Email: hanifahalya771@gmail.com
