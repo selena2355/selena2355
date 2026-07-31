@@ -1,8 +1,10 @@
 # Hi, I'm Hanifah Alya 👋
 
-Diploma in Information Technology graduate from **Politeknik Negeri Madiun** with an interest in backend web development, automation, and natural language processing.
+## 👋 About Me
 
-I enjoy building practical applications that solve real problems through clean, maintainable solutions. Recently, I've been focusing on Python, Flask, database-driven applications, and document processing systems.
+I'm a recent Information Technology graduate who enjoys solving problems through software.
+
+Although my academic background introduced me to various areas of IT, I found myself particularly interested in backend development, automation, and natural language processing. I like understanding how systems work behind the scenes and building applications that are reliable, maintainable, and useful.
 
 ---
 
@@ -71,7 +73,17 @@ A web-based application that automatically detects and corrects Indonesian punct
 
 ---
 
+## 🎯 Current Goals
+
+- Build more real-world backend projects
+- Improve software engineering skills
+- Contribute to open-source projects
+- Start a professional career as a Backend Developer
+
+---
+
 ## 📫 Contact
 
 - LinkedIn: *(coming soon)*
 - Email: hanifahalya771@gmail.com
+- Portfolio: *(coming soon)*
