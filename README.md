@@ -39,9 +39,13 @@ Although my academic background introduced me to various areas of IT, I found my
 
 - MySQL
 
+### Version Control
+
+- Git
+- Github
+
 ### Tools
 
-- Git & GitHub
 - Visual Studio Code
 - MySQL Workbench
 - Postman
@@ -58,8 +62,16 @@ Although my academic background introduced me to various areas of IT, I found my
 
 ### Indonesian Scientific Punctuation Checker
 
-A web-based application that automatically detects and corrects Indonesian punctuation errors in scientific documents using a rule-based approach, Regular Expressions, and POS Tagging with Stanza.
+A Flask-based web application that automatically detects and corrects Indonesian punctuation errors in scientific documents using Rule-Based Processing, Regular Expressions, and POS Tagging (Stanza).
 
+**Key Technologies**
+
+- Flask
+- MySQL
+- Flask-SQLAlchemy
+- Background Worker
+- Stanza NLP
+- 
 **Highlights**
 
 - DOCX document processing
