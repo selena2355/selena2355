@@ -1,4 +1,4 @@
-# Hi, I'm Hanifah Alya (Selena) 👋
+# Hi, I'm Hanifah Alya 👋
 
 ## 👋 About Me
 
@@ -96,6 +96,6 @@ A Flask-based web application that automatically detects and corrects Indonesian
 
 ## 📫 Contact
 
-- LinkedIn: *(coming soon)*
+- LinkedIn: www.linkedin.com/in/hanifah-alya
 - Email: hanifahalya771@gmail.com
 - Portfolio: *(coming soon)*
